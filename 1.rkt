@@ -26,3 +26,9 @@ sdfsdfs
  (set! lower (min n m))
  (set! upper (max n m))
  (guess))
+
+
+(start 1 20)
+(smaller)
+(smaller)
+(bigger)
