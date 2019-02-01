@@ -73,3 +73,11 @@
 
 (total-profit 5)
 (total-profit 100)
+
+;; create good algorithms not fuzz or dabble about syntax or prog language. 
+;; get or display network directory in your computer then display
+;; find a drive in the display, enter and
+;; explore that drive, pick a txt file
+;; and display it. done.
+
+;;(find-system-path 'home-dir)
