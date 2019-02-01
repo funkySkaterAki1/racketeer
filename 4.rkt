@@ -66,3 +66,10 @@
 
 (tax 12000 0.12)
 (netpay 12000 0.12)
+
+;; old style business profit program
+(define (total-profit customers)
+  (- (* customers 5) (+ 20 (* customers 0.5))) )
+
+(total-profit 5)
+(total-profit 100)
